@@ -1,4 +1,5 @@
 Churn probability Prediction using regression and classification techniques
+
 In the telecommunication industry, customers tend to change operators if not provided with attractive schemes and offers. It is very important for any telecom operator to prevent the present customers from churning to other operators. In this case study we need to build an ML model which can predict if the customer will churn or not in a particular month based on the past data.
 
 The solution is divided into the following sections:
